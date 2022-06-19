@@ -1,0 +1,12 @@
+#pragma once
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <thread>
+#include <string>
+#include "Movement.h"
+#include "Classes.h"
+#include <math.h>
+#include "Physics.h"
+#include "Draw.h"
+void renderer();
